@@ -118,6 +118,18 @@ A Python/PyQt desktop utility for encrypting and decrypting binary files. The pr
 
 ## Contact
 
-I am open to remote internship, trainee, and junior opportunities in backend development, automation, and developer tooling.
+<p align="center">
+  I am open to remote internship, trainee, and junior opportunities in backend development, automation, and developer tooling.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Leo0742-181717?style=for-the-badge&logo=github)](https://github.com/Leo0742)
+<p align="center">
+  <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+  </a>
+  <a href="mailto:leo-github@yandex.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Email" />
+  </a>
+  <a href="https://github.com/Leo0742" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+</p>
