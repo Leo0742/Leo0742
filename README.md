@@ -8,6 +8,18 @@
 
 I build backend APIs, automation, desktop tools, browser extensions, parsers, and AI-powered utilities.
 
+<p align="center">
+  <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" />
+  </a>
+  <a href="mailto:leo-github@yandex.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+  </a>
+  <a href="https://github.com/Leo0742" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+</p>
+
 [![Innopolis University](https://img.shields.io/badge/Innopolis_University-Student-8B5CF6?style=for-the-badge)](https://innopolis.university/en/)
 [![Open to Opportunities](https://img.shields.io/badge/Open_to-Remote_Internships_%26_Junior_Roles-22C55E?style=for-the-badge)](#contact)
 
@@ -118,18 +130,4 @@ A Python/PyQt desktop utility for encrypting and decrypting binary files. The pr
 
 ## Contact
 
-<p align="center">
-  I am open to remote internship, trainee, and junior opportunities in backend development, automation, and developer tooling.
-</p>
-
-<p align="center">
-  <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-  </a>
-  <a href="mailto:leo-github@yandex.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Email" />
-  </a>
-  <a href="https://github.com/Leo0742" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-</p>
+Open to remote internships, trainee positions, and junior developer opportunities.
