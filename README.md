@@ -40,36 +40,36 @@ I build backend APIs, automation, desktop tools, browser extensions, parsers, an
 
 **Backend & data**
 
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=fastapi&logoColor=02569B" alt="REST APIs" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=44A2D2" alt="SQLite" /></a>
-<a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Pytest" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-2F6FA3?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/REST_APIs-1E5A8A?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-355C9A?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQLite-2B5876?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" /></a>
+<a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pytest-0E7490?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="Pytest" /></a>
 
 **Web, desktop & extensions**
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=47848F" alt="Electron" /></a>
-<a href="https://riverbankcomputing.com/software/pyqt/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyQt-161B22?style=for-the-badge&logo=qt&logoColor=41CD52" alt="PyQt" /></a>
-<a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chrome_Extensions-1F2937?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Chrome Extensions" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-2F5F9F?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-1E40AF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Electron-334155?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" /></a>
+<a href="https://riverbankcomputing.com/software/pyqt/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyQt-2F855A?style=for-the-badge&logo=qt&logoColor=FFFFFF" alt="PyQt" /></a>
+<a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chrome_Extensions-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Chrome Extensions" /></a>
 
 **Tools & infrastructure**
 
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /></a>
-<a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-1D6FA5?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" /></a>
+<a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-7C2D12?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 
 **Exploring & growing into**
 
-<a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" /></a>
-<a href="https://developers.google.com/machine-learning" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="Machine Learning" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /></a>
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" /></a>
+<a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-0891B2?style=for-the-badge&logo=go&logoColor=FFFFFF" alt="Go" /></a>
+<a href="https://developers.google.com/machine-learning" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="Machine Learning" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyTorch-9A3412?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C-64748B?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-1E5A8A?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" /></a>
 
 ## Featured projects
 
