@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Leonid (Leo)
+# Hi, I'm Leo👋
 
 ### Backend & AI Automation Developer
 
