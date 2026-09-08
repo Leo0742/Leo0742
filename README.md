@@ -29,7 +29,7 @@ I build backend APIs, automation tools, desktop apps, browser extensions, parser
 
 ## About me
 
-- I am a first-year student at **Innopolis University**, soon moving into my second year.
+- I am a second-year student at **Innopolis University**.
 - I have hands-on project experience across **backend systems, automation, desktop apps, web apps, browser extensions, parsers, bots, and developer tools**.
 - My strongest current direction is **Python backend development, API work, automation, and developer tooling**.
 - I also have experience with **TypeScript, React, Electron, PyQt, C/C++ foundations**, and competitive-programming style problem solving.
