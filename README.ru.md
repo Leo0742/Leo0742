@@ -157,7 +157,7 @@ Desktop-утилита на Python/PyQt для защиты локальных �
 </a>
 
 <a href="https://github.com/Leo0742">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leo0742&theme=github-compact&hide_border=true&area=true" alt="График активности GitHub Лео" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo0742&theme=github_dark" alt="Подробная активность профиля GitHub Лео" />
 </a>
 
 </div>
