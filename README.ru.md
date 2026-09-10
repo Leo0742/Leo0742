@@ -133,6 +133,18 @@ AI-ассистент для интервью и учёбы в реальном 
 
 `TypeScript` · `Electron` · `React` · `Vite` · `gRPC` · `Speech-to-Text` · `LLM Streaming` · `Multimodal AI`
 
+### [QuizMind Yandex Forms](https://github.com/Leo0742/QuizMind-Yandex_Forms)
+
+Chrome-расширение на Manifest V3 для AI-assisted работы с **Яндекс Формами**. Оно сочетает семантическое извлечение DOM с ответами по выделенному тексту и скриншотам, поддерживает radio/checkbox/text/select/accessible-combobox controls, применяет ответы только через явно включаемый controlled auto-apply режим и добавляет RouterAI model selection, Multi-Check consensus, Course Pack grounding и browser-side safety tests.
+
+`JavaScript` · `Chrome Extension` · `Manifest V3` · `Yandex Forms` · `RouterAI` · `Semantic DOM` · `Multimodal AI` · `Testing`
+
+### [QuizMind Moodle](https://github.com/Leo0742/QuizMind-Moodle)
+
+Moodle-aware Chrome-расширение на Manifest V3 с отдельным анализом типов вопросов и адаптивной маршрутизацией **HTML / image / screenshot**. Оно определяет Moodle qtype, удаляет review-state и утечки предыдущих ответов перед AI-запросом, сохраняет структурированный контекст вопроса, использует RouterAI text/vision модели и включает Multi-Check verification, Course Pack grounding, Chat/History tooling и настраиваемое локальное UI-состояние.
+
+`JavaScript` · `Chrome Extension` · `Manifest V3` · `Moodle` · `RouterAI` · `DOM Analysis` · `Multimodal AI` · `Multi-Model`
+
 ### [QuizMind Platform](https://github.com/Leo0742/QuizMind_Platform)
 
 SaaS-style платформа с web-приложением на **Next.js**, API на **NestJS**, worker-сервисом, shared packages, PostgreSQL, Redis, Docker, аутентификацией, feature flags, remote config и support/admin workflows. Исходный репозиторий разработки размещался у товарища по команде, поэтому версия в моём профиле сохранена как fork с реальной историей проекта.
