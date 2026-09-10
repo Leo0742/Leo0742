@@ -133,6 +133,18 @@ A real-time macOS AI interview and study assistant with live **Yandex SpeechKit*
 
 `TypeScript` · `Electron` · `React` · `Vite` · `gRPC` · `Speech-to-Text` · `LLM Streaming` · `Multimodal AI`
 
+### [QuizMind Yandex Forms](https://github.com/Leo0742/QuizMind-Yandex_Forms)
+
+A Manifest V3 Chrome extension for AI-assisted work with **Yandex Forms**. It combines semantic DOM extraction with selected-text and screenshot Q&A, supports radio/checkbox/text/select/accessible-combobox workflows, applies answers only through an explicit controlled auto-apply mode, and adds RouterAI model selection, Multi-Check consensus, Course Pack grounding, and browser-side safety tests.
+
+`JavaScript` · `Chrome Extension` · `Manifest V3` · `Yandex Forms` · `RouterAI` · `Semantic DOM` · `Multimodal AI` · `Testing`
+
+### [QuizMind Moodle](https://github.com/Leo0742/QuizMind-Moodle)
+
+A Moodle-aware Manifest V3 Chrome extension with dedicated question-type analysis and adaptive **HTML / image / screenshot** routing. It detects Moodle qtypes, cleans review-state and previous-answer leakage before AI requests, preserves structured question context, uses RouterAI text/vision models, and includes Multi-Check verification, Course Pack grounding, chat/history tooling, and configurable local UI state.
+
+`JavaScript` · `Chrome Extension` · `Manifest V3` · `Moodle` · `RouterAI` · `DOM Analysis` · `Multimodal AI` · `Multi-Model`
+
 ### [QuizMind Platform](https://github.com/Leo0742/QuizMind_Platform)
 
 A SaaS-style platform I built with a **Next.js** web app, **NestJS** API, worker service, shared packages, PostgreSQL, Redis, Docker, authentication, feature flags, remote config, and support/admin workflows. The original development repository was hosted by a teammate, so the repository on my profile is a fork of that project history.
