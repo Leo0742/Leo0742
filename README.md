@@ -121,11 +121,17 @@ A native offline macOS trainer for the Russian amateur-radio third-category exam
 
 `Swift` · `SwiftUI` · `macOS` · `Adaptive Learning` · `Spaced Repetition` · `Testing` · `CI`
 
-### [Inno Code](https://github.com/Leo0742/Inno-Code)
+### [Store Order Management System](https://github.com/Leo0742/Store-Order-Management-System)
 
-A desktop coding assistant with multi-agent planning and explicit review before repository changes are applied. The Electron app supports persisted sessions, sandbox previews, selective patch application, runtime logs, provider profiles, and validation commands.
+A full-stack internal retail operations platform for sales, replenishment, and transfer orders, inventory reservations and stock movements, catalogue and location management, plus operational analytics. It uses a layered **FastAPI → service → repository → PostgreSQL** backend with a **React/TypeScript** frontend; my main contribution was the Orders domain and its transactional workflow logic.
 
-`TypeScript` · `Electron` · `React` · `Node.js` · `Git` · `Developer Tools`
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `React` · `TypeScript` · `Vite` · `Testing`
+
+### [EchoDeck](https://github.com/Leo0742/EchoDeck)
+
+A real-time macOS AI interview and study assistant with live **Yandex SpeechKit** STT, local RU/EN question detection, parallel streaming answers from multiple LLM providers, and multimodal screen Q&A with follow-up context. The desktop app is built with Electron, React, TypeScript, Vite and gRPC, with typed IPC boundaries and dedicated QA tooling.
+
+`TypeScript` · `Electron` · `React` · `Vite` · `gRPC` · `Speech-to-Text` · `LLM Streaming` · `Multimodal AI`
 
 ### [QuizMind Platform](https://github.com/Leo0742/QuizMind_Platform)
 
