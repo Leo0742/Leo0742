@@ -115,11 +115,11 @@ A local-first macOS organizer for Telegram Saved Messages. It imports messages t
 
 `TypeScript` · `Electron` · `React` · `SQLite` · `Telegram MTProto` · `AI Integration`
 
-### [HAM Trainer](https://github.com/Leo0742/HAM-Trainer)
+### [HAM Trainer 3](https://github.com/Leo0742/HAM-Trainer-3)
 
-A native macOS study app I built for preparing for the Russian amateur-radio second-category exam. It contains **405 questions**, a custom repetition system, explanations, notes, glossary and mock exams, with automated content checks, tests, and CI.
+A native offline macOS trainer for the Russian amateur-radio third-category exam. It includes **218 verified questions**, an adaptive question-distance spaced-repetition scheduler, weak-question drills, source-linked explanations, a 25-question mock exam, glossary, local progress and validated backups, plus reproducible content audits and CI.
 
-`Swift` · `SwiftUI` · `macOS` · `Testing` · `CI`
+`Swift` · `SwiftUI` · `macOS` · `Adaptive Learning` · `Spaced Repetition` · `Testing` · `CI`
 
 ### [Inno Code](https://github.com/Leo0742/Inno-Code)
 
