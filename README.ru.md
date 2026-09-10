@@ -121,11 +121,17 @@ Local-first macOS-органайзер для Telegram «Избранного».
 
 `Swift` · `SwiftUI` · `macOS` · `Adaptive Learning` · `Spaced Repetition` · `Testing` · `CI`
 
-### [Inno Code](https://github.com/Leo0742/Inno-Code)
+### [Store Order Management System](https://github.com/Leo0742/Store-Order-Management-System)
 
-Desktop coding assistant с multi-agent planning и обязательным review перед применением изменений к репозиторию. Electron-приложение поддерживает сохранённые сессии, sandbox previews, выборочное применение patch, runtime logs, профили провайдеров и команды валидации.
+Full-stack внутренняя retail-платформа для заказов продаж, пополнения и перемещения, резервирования запасов и stock movements, управления каталогом и локациями, а также операционной аналитики. Backend построен по слоистой схеме **FastAPI → service → repository → PostgreSQL**, frontend — на **React/TypeScript**; мой основной вклад был сосредоточен на домене Orders и его транзакционной workflow-логике.
 
-`TypeScript` · `Electron` · `React` · `Node.js` · `Git` · `Developer Tools`
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `React` · `TypeScript` · `Vite` · `Testing`
+
+### [EchoDeck](https://github.com/Leo0742/EchoDeck)
+
+AI-ассистент для интервью и учёбы в реальном времени на macOS с live **Yandex SpeechKit** STT, локальным определением вопросов на русском и английском, параллельными streaming-ответами нескольких LLM-провайдеров и мультимодальным screen Q&A с follow-up контекстом. Desktop-приложение построено на Electron, React, TypeScript, Vite и gRPC, с типизированными IPC-границами и отдельным QA tooling.
+
+`TypeScript` · `Electron` · `React` · `Vite` · `gRPC` · `Speech-to-Text` · `LLM Streaming` · `Multimodal AI`
 
 ### [QuizMind Platform](https://github.com/Leo0742/QuizMind_Platform)
 
