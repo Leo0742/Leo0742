@@ -6,11 +6,11 @@
 
 # Hi, I'm Leo 👋
 
-### Software Engineering · Backend · Automation · Applied ML
+### Backend · Desktop apps · Browser extensions · Applied ML
 
-**Python / FastAPI / SQL / Docker · Desktop & developer tools · Computer Vision · Learning Go**
+**Python / FastAPI / SQL / Docker · TypeScript / React / Electron · Computer Vision · Learning Go**
 
-I'm a second-year student at **Innopolis University**. I like building practical projects end to end — from backend APIs and desktop apps to automation tools and applied Computer Vision experiments.
+I'm a second-year student at **Innopolis University**. Python backend is my main area, but I also build desktop apps, Chrome extensions, and ML/CV projects.
 
 <p align="center">
   <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
@@ -33,14 +33,11 @@ I'm a second-year student at **Innopolis University**. I like building practical
 
 ## About me
 
-- I am a **second-year student at Innopolis University**.
-- My strongest base is still **Python backend development, APIs, automation, and developer tooling**.
-- I also build **desktop and web applications** with TypeScript, React, Electron, PyQt, and SwiftUI.
-- Recently I started doing more **Applied ML / Computer Vision** work and built a complete YOLO + ByteTrack video analytics project with real-video validation.
-- I enjoy taking projects further than a prototype: adding tests, documentation, reproducible setup, error handling, and a clear demo.
-- I use AI-assisted development as a tool, but I try to understand, test, explain, and take responsibility for the final code.
-- Right now I am also learning **Go** and strengthening my ML/CV fundamentals.
-- I am open to **remote internships, trainee positions, and junior opportunities** where I can contribute and keep learning.
+- I'm a **second-year student at Innopolis University**.
+- I work mostly with **Python backend development**: FastAPI, SQL, PostgreSQL, APIs, Docker, and testing.
+- I also use **TypeScript, React, Electron, Chrome Extensions, and SwiftUI** for web and desktop projects.
+- I like projects where I can build the whole thing, test it, document it, and actually use the result.
+- Right now I'm learning **Go** and doing more work with **ML / Computer Vision**. I'm open to remote internships, trainee roles, and junior positions.
 
 ## Tech stack
 
@@ -64,7 +61,7 @@ I'm a second-year student at **Innopolis University**. I like building practical
 <a href="https://github.com/ifzhang/ByteTrack" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ByteTrack-475569?style=for-the-badge" alt="ByteTrack" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyTorch-9A3412?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /></a>
 
-**Web, desktop & automation**
+**Web, desktop & browser extensions**
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-2F5F9F?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
@@ -76,6 +73,7 @@ I'm a second-year student at **Innopolis University**. I like building practical
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Swift-9A3412?style=for-the-badge&logo=swift&logoColor=FFFFFF" alt="Swift" /></a>
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SwiftUI-B45309?style=for-the-badge&logo=swift&logoColor=FFFFFF" alt="SwiftUI" /></a>
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chrome_Extensions-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Chrome Extensions" /></a>
+<img src="https://img.shields.io/badge/Manifest_V3-475569?style=for-the-badge" alt="Manifest V3" />
 <a href="https://core.telegram.org/mtproto" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram_MTProto-1D6FA5?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram MTProto" /></a>
 <a href="https://docs.aiogram.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram_Bots-1D6FA5?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram Bots" /></a>
 
@@ -84,7 +82,6 @@ I'm a second-year student at **Innopolis University**. I like building practical
 <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-1D6FA5?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" /></a>
 <a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-7C2D12?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-1E40AF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" /></a>
 <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pytest-0E7490?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="Pytest" /></a>
 <a href="https://docs.astral.sh/ruff/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ruff-374151?style=for-the-badge" alt="Ruff" /></a>
@@ -99,69 +96,62 @@ I'm a second-year student at **Innopolis University**. I like building practical
 
 ### [Warehouse Vision Demo](https://github.com/Leo0742/Warehouse-Vision-Demo)
 
-My newest Applied Computer Vision project. It uses **YOLO11n** for object detection and **ByteTrack** for tracking, keeps stable track IDs, detects directional line crossings, draws annotated video, and exports events to CSV and JSON. I tested the full pipeline on real licensed videos instead of only using synthetic examples.
+A computer vision demo for counting objects that cross a line in video. I use **YOLO11n + ByteTrack**, keep track IDs, draw the result video, and export crossing events to CSV/JSON. I also tested the pipeline on real videos.
 
 `Python` · `OpenCV` · `Ultralytics YOLO` · `ByteTrack` · `NumPy` · `Pytest`
 
 ### [Lost & Found Board](https://github.com/Leo0742/Lost-Found-Board)
 
-A full-stack lost-and-found platform with a **FastAPI** backend, **PostgreSQL** database, **React** frontend, Telegram bot, report lifecycle, search and matching, claims, moderation workflow, health checks, and Docker Compose deployment. This is still one of my strongest backend projects.
+A full-stack lost-and-found service I worked on. It has a **FastAPI/PostgreSQL** backend, **React** frontend, Telegram bot, search and matching, claims, moderation, and Docker Compose deployment.
 
 `Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `React` · `Telegram Bot` · `Docker`
 
 ### [SavedAtlas](https://github.com/Leo0742/SavedAtlas)
 
-A local-first macOS organizer for Telegram Saved Messages. It imports messages through MTProto, stores and searches them with **SQLite/FTS5**, classifies content through RouterAI, supports a safe Demo Mode, and keeps credentials protected with Electron `safeStorage`.
+A macOS app for organizing Telegram Saved Messages. It syncs messages through **MTProto**, indexes them locally with **SQLite/FTS5**, and uses RouterAI for classification. Credentials are stored with Electron `safeStorage`.
 
 `TypeScript` · `Electron` · `React` · `SQLite` · `Telegram MTProto` · `AI Integration`
 
 ### [HAM Trainer 3](https://github.com/Leo0742/HAM-Trainer-3)
 
-A native offline macOS trainer for the Russian amateur-radio third-category exam. It includes **218 verified questions**, an adaptive question-distance spaced-repetition scheduler, weak-question drills, source-linked explanations, a 25-question mock exam, glossary, local progress and validated backups, plus reproducible content audits and CI.
+A native offline macOS trainer I made for the Russian amateur-radio third-category exam. It has **218 verified questions**, spaced repetition, weak-question practice, a 25-question mock exam, a glossary, local progress, and CI/content checks.
 
 `Swift` · `SwiftUI` · `macOS` · `Adaptive Learning` · `Spaced Repetition` · `Testing` · `CI`
 
 ### [Store Order Management System](https://github.com/Leo0742/Store-Order-Management-System)
 
-A full-stack internal retail operations platform for sales, replenishment, and transfer orders, inventory reservations and stock movements, catalogue and location management, plus operational analytics. It uses a layered **FastAPI → service → repository → PostgreSQL** backend with a **React/TypeScript** frontend; my main contribution was the Orders domain and its transactional workflow logic.
+A team project for managing retail orders and inventory. The backend uses **FastAPI, SQLAlchemy and PostgreSQL**, and the frontend uses **React/TypeScript**. I worked mainly on the Orders domain: order flows, reservations, and stock changes.
 
 `Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `React` · `TypeScript` · `Vite` · `Testing`
 
 ### [EchoDeck](https://github.com/Leo0742/EchoDeck)
 
-A real-time macOS AI interview and study assistant with live **Yandex SpeechKit** STT, local RU/EN question detection, parallel streaming answers from multiple LLM providers, and multimodal screen Q&A with follow-up context. The desktop app is built with Electron, React, TypeScript, Vite and gRPC, with typed IPC boundaries and dedicated QA tooling.
+A macOS desktop assistant for live speech and screen questions. **Yandex SpeechKit** handles STT, questions are detected locally, and several LLMs can answer in parallel. The app is built with Electron, React, TypeScript, Vite, and gRPC.
 
 `TypeScript` · `Electron` · `React` · `Vite` · `gRPC` · `Speech-to-Text` · `LLM Streaming` · `Multimodal AI`
 
 ### [QuizMind Yandex Forms](https://github.com/Leo0742/QuizMind-Yandex_Forms)
 
-A Manifest V3 Chrome extension for AI-assisted work with **Yandex Forms**. It combines semantic DOM extraction with selected-text and screenshot Q&A, supports radio/checkbox/text/select/accessible-combobox workflows, applies answers only through an explicit controlled auto-apply mode, and adds RouterAI model selection, Multi-Check consensus, Course Pack grounding, and browser-side safety tests.
+A Chrome extension for **Yandex Forms** and normal web pages. It reads form controls from visible DOM structure, can answer from selected text or screenshots, and has controlled auto-apply, Multi-Check, and Course Pack support.
 
 `JavaScript` · `Chrome Extension` · `Manifest V3` · `Yandex Forms` · `RouterAI` · `Semantic DOM` · `Multimodal AI` · `Testing`
 
 ### [QuizMind Moodle](https://github.com/Leo0742/QuizMind-Moodle)
 
-A Moodle-aware Manifest V3 Chrome extension with dedicated question-type analysis and adaptive **HTML / image / screenshot** routing. It detects Moodle qtypes, cleans review-state and previous-answer leakage before AI requests, preserves structured question context, uses RouterAI text/vision models, and includes Multi-Check verification, Course Pack grounding, chat/history tooling, and configurable local UI state.
+A Moodle-specific QuizMind version. It detects Moodle question types and decides whether to send cleaned HTML, question images, or a screenshot to the model. It also removes review-state clues and old answers before the AI request.
 
 `JavaScript` · `Chrome Extension` · `Manifest V3` · `Moodle` · `RouterAI` · `DOM Analysis` · `Multimodal AI` · `Multi-Model`
 
 ### [QuizMind Platform](https://github.com/Leo0742/QuizMind_Platform)
 
-A SaaS-style platform I built with a **Next.js** web app, **NestJS** API, worker service, shared packages, PostgreSQL, Redis, Docker, authentication, feature flags, remote config, and support/admin workflows. The original development repository was hosted by a teammate, so the repository on my profile is a fork of that project history.
+A team SaaS-style project with **Next.js, NestJS, PostgreSQL, Redis, Prisma, and Docker**. It includes authentication, feature flags, remote config, and support/admin workflows. The repository on my profile is a fork because the original development repo was hosted by a teammate.
 
 `TypeScript` · `Next.js` · `NestJS` · `Prisma` · `PostgreSQL` · `Redis` · `Docker`
 
-### [SmartRoute VPN](https://github.com/Leo0742/SmartRoute-VPN_Site)
+## Other projects
 
-A full-stack subscription dashboard with a landing page, authentication, user cabinet, admin panel, support tickets, partner workflows, Telegram login, Prisma persistence, and Docker deployment.
-
-`JavaScript` · `React` · `Express` · `Prisma` · `SQLite` · `Docker`
-
-### [CRYPTOGRAPHER](https://github.com/Leo0742/CRYPTOGRAPHER)
-
-A Python/PyQt desktop utility for protecting local files through a graphical interface and packaging the application for Windows users.
-
-`Python` · `PyQt5` · `Desktop` · `Packaging`
+- [**SmartRoute VPN**](https://github.com/Leo0742/SmartRoute-VPN_Site) — subscription dashboard with React, Express, Prisma, SQLite, Telegram login, and Docker.
+- [**CRYPTOGRAPHER**](https://github.com/Leo0742/CRYPTOGRAPHER) — Python/PyQt desktop app for encrypting local files and packaging the app for desktop use.
 
 ## GitHub activity
 
@@ -182,13 +172,11 @@ A Python/PyQt desktop utility for protecting local files through a graphical int
 
 ## Current focus
 
-- Strengthening my **Python/backend fundamentals** with FastAPI, SQL, Docker, testing, and clean architecture.
-- Building more **Applied ML / Computer Vision** projects and understanding the full path from model output to a useful application feature.
-- Continuing to build **automation, desktop apps, and developer tools**.
-- Learning **Go** for backend services and concurrent systems.
-- Improving project quality through **tests, validation, documentation, and reproducible setup**.
-- Looking for **remote internship, trainee, and junior opportunities** where I can work on real engineering tasks and learn from a team.
+- Getting stronger at **Python backend**: FastAPI, SQL, Docker, testing, and clean architecture.
+- Building more **desktop apps and browser extensions**, especially projects that connect normal software with AI models.
+- Learning more **ML / Computer Vision** beyond just using ready-made models.
+- Learning **Go** and looking for a remote internship, trainee role, or junior position where I can work on real tasks and learn from a team.
 
 ## Contact
 
-Open to remote internships, trainee positions, and junior developer opportunities in **backend development, automation, Applied ML / Computer Vision, and developer tooling**.
+I'm open to remote internships, trainee roles, and junior developer positions, mostly around **backend, automation, desktop/browser tools, and Applied ML / Computer Vision**.
