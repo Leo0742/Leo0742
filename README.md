@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> · <a href="README.ru.md">Русский</a>
+</p>
+
 <div align="center">
 
 # Hi, I'm Leo 👋
