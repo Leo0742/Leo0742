@@ -157,7 +157,7 @@ A Python/PyQt desktop utility for protecting local files through a graphical int
 </a>
 
 <a href="https://github.com/Leo0742">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leo0742&theme=github-compact&hide_border=true&area=true" alt="Leo's GitHub contribution activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo0742&theme=github_dark" alt="Leo's GitHub profile activity details" />
 </a>
 
 </div>
