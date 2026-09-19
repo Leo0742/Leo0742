@@ -100,7 +100,7 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 
 ### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
 
-A student ML/NLP project for **1,931 labeled Service Desk tickets**. I trained and compared two embedding-based classifier variants using **Qwen3-Embedding-4B** and **Qwen3-Embedding-8B** as frozen encoders, alongside TF-IDF, LinearSVC and CatBoost baselines. The final pipeline predicts TOP-3 categories, recommends a support line and searches similar historical tickets. On TOP-15 grouped CV it reaches **80.8% Top-1 / 97.7% Top-3 / 76.0% Macro-F1**.
+A student ML/NLP project for **1,931 labeled Service Desk tickets**. I trained and compared two classifier pipelines using **Qwen3-Embedding-4B** and **Qwen3-Embedding-8B** as frozen encoders, alongside TF-IDF, LinearSVC and CatBoost baselines. The service predicts TOP-3 categories, recommends a support line and searches similar tickets. The **4B Lite** pipeline reached **80.8% Top-1 / 97.7% Top-3 / 76.0% Macro-F1** on TOP-15 grouped CV; the repo includes the 4B/8B training code and evaluation reports.
 
 `Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `Qwen3 Embeddings` · `FastAPI`
 
