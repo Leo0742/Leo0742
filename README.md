@@ -94,6 +94,12 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 
 ## Featured projects
 
+### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
+
+A student ML/NLP project for Service Desk tickets. It predicts **TOP-3 categories**, recommends a support line, finds similar historical tickets, and keeps operator feedback separate for controlled retraining. I compared classical TF-IDF models, CatBoost, and embedding-based approaches with group-aware validation and leakage checks.
+
+`Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `FastAPI` · `React`
+
 ### [Warehouse Vision Demo](https://github.com/Leo0742/Warehouse-Vision-Demo)
 
 A computer vision demo for counting objects that cross a line in video. I use **YOLO11n + ByteTrack**, keep track IDs, draw the result video, and export crossing events to CSV/JSON. I also tested the pipeline on real videos.
