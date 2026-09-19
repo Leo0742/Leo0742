@@ -37,7 +37,7 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 - I work mostly with **Python backend development**: FastAPI, SQL, PostgreSQL, APIs, Docker, and testing.
 - I also use **TypeScript, React, Electron, Chrome Extensions, and SwiftUI** for web and desktop projects.
 - I like projects where I can build the whole thing, test it, document it, and actually use the result.
-- Right now I'm learning **Go** and doing more work with **ML / Computer Vision**. I'm open to remote internships, trainee roles, and junior positions.
+- Right now I'm learning **Go** and doing more work with **ML / NLP / Computer Vision**. I'm open to remote internships, trainee roles, and junior positions.
 
 ## Tech stack
 
@@ -53,8 +53,12 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Prisma-1F2937?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NestJS-991B1B?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /></a>
 
-**Applied ML & Computer Vision**
+**Applied ML, NLP & Computer Vision**
 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-334155?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/scikit--learn-334155?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /></a>
+<a href="https://catboost.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CatBoost-334155?style=for-the-badge" alt="CatBoost" /></a>
+<a href="https://huggingface.co/docs/transformers/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Transformers-334155?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" /></a>
 <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenCV-374151?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" /></a>
 <a href="https://docs.ultralytics.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ultralytics_YOLO-111827?style=for-the-badge&logo=yolo&logoColor=FFFFFF" alt="Ultralytics YOLO" /></a>
@@ -96,9 +100,9 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 
 ### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
 
-A student ML/NLP project for Service Desk tickets. It predicts **TOP-3 categories**, recommends a support line, finds similar historical tickets, and keeps operator feedback separate for controlled retraining. I compared classical TF-IDF models, CatBoost, and embedding-based approaches with group-aware validation and leakage checks.
+A student ML/NLP project for **1,931 labeled Service Desk tickets**. I trained and compared two embedding-based classifier variants using **Qwen3-Embedding-4B** and **Qwen3-Embedding-8B** as frozen encoders, alongside TF-IDF, LinearSVC and CatBoost baselines. The final pipeline predicts TOP-3 categories, recommends a support line and searches similar historical tickets. On TOP-15 grouped CV it reaches **80.8% Top-1 / 97.7% Top-3 / 76.0% Macro-F1**.
 
-`Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `FastAPI` · `React`
+`Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `Qwen3 Embeddings` · `FastAPI`
 
 ### [Warehouse Vision Demo](https://github.com/Leo0742/Warehouse-Vision-Demo)
 
@@ -180,9 +184,9 @@ A team SaaS-style project with **Next.js, NestJS, PostgreSQL, Redis, Prisma, and
 
 - Getting stronger at **Python backend**: FastAPI, SQL, Docker, testing, and clean architecture.
 - Building more **desktop apps and browser extensions**, especially projects that connect normal software with AI models.
-- Learning more **ML / Computer Vision** beyond just using ready-made models.
+- Learning more **ML / NLP / Computer Vision** beyond just using ready-made models.
 - Learning **Go** and looking for a remote internship, trainee role, or junior position where I can work on real tasks and learn from a team.
 
 ## Contact
 
-I'm open to remote internships, trainee roles, and junior developer positions, mostly around **backend, automation, desktop/browser tools, and Applied ML / Computer Vision**.
+I'm open to remote internships, trainee roles, and junior developer positions, mostly around **backend, automation, desktop/browser tools, and Applied ML / NLP / Computer Vision**.
