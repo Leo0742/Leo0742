@@ -100,7 +100,7 @@
 
 ### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
 
-Учебный ML/NLP-проект на **1 931 размеченном обращении Service Desk**. Я обучил и сравнил два embedding-based варианта классификатора на **Qwen3-Embedding-4B** и **Qwen3-Embedding-8B** как frozen encoder, а также TF-IDF, LinearSVC и CatBoost baselines. Финальный pipeline предсказывает TOP-3 категории, рекомендует линию поддержки и ищет похожие обращения. На TOP-15 grouped CV получил **80,8% Top-1 / 97,7% Top-3 / 76,0% Macro-F1**.
+Учебный ML/NLP-проект на **1 931 размеченном обращении Service Desk**. Я обучил и сравнил два классификационных pipeline на **Qwen3-Embedding-4B** и **Qwen3-Embedding-8B** как frozen encoder, а также TF-IDF, LinearSVC и CatBoost baselines. Сервис предсказывает TOP-3 категории, рекомендует линию поддержки и ищет похожие обращения. **4B Lite** получил **80,8% Top-1 / 97,7% Top-3 / 76,0% Macro-F1** на TOP-15 grouped CV; в репозитории лежат training code и отчёты по 4B/8B.
 
 `Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `Qwen3 Embeddings` · `FastAPI`
 
