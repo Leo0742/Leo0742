@@ -6,11 +6,11 @@
 
 # Привет, я Лео 👋
 
-### Backend · Desktop-приложения · Browser extensions · Applied ML
+### Backend · Full-stack приложения · Desktop-приложения · Applied ML
 
-**Python / FastAPI / SQL / Docker · TypeScript / React / Electron · Computer Vision · Изучаю Go**
+**Python / FastAPI / PostgreSQL / Docker · TypeScript / React / Next.js · ML / Computer Vision · Изучаю Go**
 
-Я студент второго курса **Университета Иннополис**. В основном занимаюсь Python backend-разработкой, но также делаю desktop-приложения, Chrome-расширения и проекты по ML/CV.
+Я студент второго курса **Университета Иннополис**. В основном занимаюсь Python backend-разработкой, а также делаю full-stack, desktop и ML/CV-проекты.
 
 <p align="center">
   <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
@@ -35,8 +35,8 @@
 
 - Я **студент второго курса Университета Иннополис**.
 - Больше всего работаю с **Python backend**: FastAPI, SQL, PostgreSQL, API, Docker и тестирование.
-- Для web- и desktop-проектов использую **TypeScript, React, Electron, Chrome Extensions и SwiftUI**.
-- Мне нравятся проекты, которые можно сделать целиком: написать код, проверить его, оформить документацию и потом самому пользоваться результатом.
+- Для web- и desktop-проектов использую **TypeScript, React, Next.js, Electron, Chrome Extensions и SwiftUI**.
+- Мне нравятся проекты, которые можно собрать целиком: API, база данных, интерфейс, тесты, deployment и документация.
 - Сейчас изучаю **Go** и больше занимаюсь **ML / NLP / Computer Vision**. Открыт к удалённым стажировкам, trainee- и junior-позициям.
 
 ## Технологии
@@ -116,6 +116,12 @@
 
 `Python` · `OpenCV` · `Ultralytics YOLO` · `ByteTrack` · `NumPy` · `Pytest`
 
+### [DoseTrack](https://github.com/Leo0742/DoseTrack)
+
+Личный full-stack сервис для контроля назначенной схемы лечения и ежедневных приёмов. Я собрал backend на **FastAPI/PostgreSQL** и frontend на **Next.js/React**, добавил календарь и дневник, приватные документы и фото, read-only доступ врача, Telegram-напоминания, Excel-выгрузку, backup/restore и E2E-тесты. Приложение хранит введённую пользователем схему и не принимает медицинских решений.
+
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Next.js` · `TypeScript` · `Docker` · `Playwright`
+
 ### [Lost & Found Board](https://github.com/Leo0742/Lost-Found-Board)
 
 Full-stack сервис для потерянных и найденных вещей, над которым я работал. Есть backend на **FastAPI/PostgreSQL**, frontend на **React**, Telegram-бот, поиск и matching, claims, модерация и запуск через Docker Compose.
@@ -188,11 +194,11 @@ Chrome-расширение для **Yandex Forms** и обычных web-стр
 
 ## Сейчас в фокусе
 
-- Укрепляю **Python backend**: FastAPI, SQL, Docker, тестирование и clean architecture.
-- Продолжаю делать **desktop-приложения и browser extensions**, особенно проекты, где обычное ПО связано с AI-моделями.
+- Укрепляю **Python backend и full-stack**: FastAPI, PostgreSQL, Docker, тестирование и deployment.
+- Собираю проекты целиком: API, база данных, frontend, авторизация, CI и развёртывание.
 - Больше разбираюсь в **ML / NLP / Computer Vision**, а не только использую готовые модели.
 - Изучаю **Go** и ищу удалённую стажировку, trainee- или junior-позицию, где можно работать над реальными задачами и учиться у команды.
 
 ## Контакты
 
-Открыт к удалённым стажировкам, trainee- и junior-позициям, в первую очередь в **backend, automation, desktop/browser tools и Applied ML / NLP / Computer Vision**.
+Открыт к удалённым стажировкам, trainee- и junior-позициям, в первую очередь в **backend, full-stack, automation, desktop tools и Applied ML / NLP / Computer Vision**.
