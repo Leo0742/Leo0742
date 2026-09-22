@@ -6,11 +6,11 @@
 
 # Hi, I'm Leo 👋
 
-### Backend · Desktop apps · Browser extensions · Applied ML
+### Backend · Full-stack apps · Desktop apps · Applied ML
 
-**Python / FastAPI / SQL / Docker · TypeScript / React / Electron · Computer Vision · Learning Go**
+**Python / FastAPI / PostgreSQL / Docker · TypeScript / React / Next.js · ML / Computer Vision · Learning Go**
 
-I'm a second-year student at **Innopolis University**. Python backend is my main area, but I also build desktop apps, Chrome extensions, and ML/CV projects.
+I'm a second-year student at **Innopolis University**. Python backend is my main area, and I also build full-stack, desktop, and ML/CV projects.
 
 <p align="center">
   <a href="https://t.me/code_philosophers" target="_blank" rel="noopener noreferrer">
@@ -35,8 +35,8 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 
 - I'm a **second-year student at Innopolis University**.
 - I work mostly with **Python backend development**: FastAPI, SQL, PostgreSQL, APIs, Docker, and testing.
-- I also use **TypeScript, React, Electron, Chrome Extensions, and SwiftUI** for web and desktop projects.
-- I like projects where I can build the whole thing, test it, document it, and actually use the result.
+- I also use **TypeScript, React, Next.js, Electron, Chrome Extensions, and SwiftUI** for web and desktop projects.
+- I like projects where I can build the whole thing: API, database, UI, tests, deployment, and documentation.
 - Right now I'm learning **Go** and doing more work with **ML / NLP / Computer Vision**. I'm open to remote internships, trainee roles, and junior positions.
 
 ## Tech stack
@@ -116,6 +116,12 @@ A computer vision demo for counting objects that cross a line in video. I use **
 
 `Python` · `OpenCV` · `Ultralytics YOLO` · `ByteTrack` · `NumPy` · `Pytest`
 
+### [DoseTrack](https://github.com/Leo0742/DoseTrack)
+
+A full-stack project for tracking a treatment plan and daily intake. I built a **FastAPI/PostgreSQL** backend and a **Next.js/React** frontend, with a calendar and diary, private documents and photos, read-only doctor access, Telegram reminders, Excel export, backups, and E2E tests. The app stores the plan entered by the user and does not make medical decisions.
+
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Next.js` · `TypeScript` · `Docker` · `Playwright`
+
 ### [Lost & Found Board](https://github.com/Leo0742/Lost-Found-Board)
 
 A full-stack lost-and-found service I worked on. It has a **FastAPI/PostgreSQL** backend, **React** frontend, Telegram bot, search and matching, claims, moderation, and Docker Compose deployment.
@@ -188,11 +194,11 @@ A team SaaS-style project with **Next.js, NestJS, PostgreSQL, Redis, Prisma, and
 
 ## Current focus
 
-- Getting stronger at **Python backend**: FastAPI, SQL, Docker, testing, and clean architecture.
-- Building more **desktop apps and browser extensions**, especially projects that connect normal software with AI models.
+- Getting stronger at **Python backend and full-stack development**: FastAPI, PostgreSQL, Docker, testing, and deployment.
+- Building projects end to end: API, database, frontend, authentication, CI, and deployment.
 - Learning more **ML / NLP / Computer Vision** beyond just using ready-made models.
 - Learning **Go** and looking for a remote internship, trainee role, or junior position where I can work on real tasks and learn from a team.
 
 ## Contact
 
-I'm open to remote internships, trainee roles, and junior developer positions, mostly around **backend, automation, desktop/browser tools, and Applied ML / NLP / Computer Vision**.
+I'm open to remote internships, trainee roles, and junior developer positions, mostly around **backend, full-stack development, automation, desktop tools, and Applied ML / NLP / Computer Vision**.
