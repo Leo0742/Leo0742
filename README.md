@@ -98,9 +98,15 @@ I'm a second-year student at **Innopolis University**. Python backend is my main
 
 ## Featured projects
 
+### [Conveyor Dimensioning Station](https://github.com/Leo0742/Conveyor-Dimensioning-Station)
+
+An engineering project for the **Ozon Tech × Innopolis University** selection. I designed a 3D station for measuring item L/W/H on a moving conveyor: compared sensor options, chose **LMI Gocator 2880**, calculated the layout, and built a synthetic Python PoC that turns point clouds into a WMS-ready result. On 500 Monte Carlo scenarios, **93.6% of accepted measurements** were within the required tolerance. The repository clearly separates simulation results from physical tests that still need to be done.
+
+`Python` · `NumPy` · `SciPy` · `Open3D` · `3D Geometry` · `Point Clouds` · `pytest` · `WMS Integration`
+
 ### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
 
-A student ML/NLP project for **1,931 labeled Service Desk tickets**. I trained and compared two classifier pipelines using **Qwen3-Embedding-4B** and **Qwen3-Embedding-8B** as frozen encoders, alongside TF-IDF, LinearSVC and CatBoost baselines. The service predicts TOP-3 categories, recommends a support line and searches similar tickets. The **4B Lite** pipeline reached **80.8% Top-1 / 97.7% Top-3 / 76.0% Macro-F1** on TOP-15 grouped CV; the repo includes the 4B/8B training code and evaluation reports.
+A student ML/NLP project for classifying **1,931 labeled Service Desk tickets across 43 categories**. I compared TF-IDF, LinearSVC, CatBoost and Qwen3-Embedding 4B/8B pipelines, used grouped validation to reduce data leakage, and built a service that returns TOP-3 categories, recommends a support line and finds similar tickets. Qwen is used as a frozen encoder, while the classification part is trained on the labeled data.
 
 `Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `Qwen3 Embeddings` · `FastAPI`
 
