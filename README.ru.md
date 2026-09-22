@@ -98,9 +98,15 @@
 
 ## Основные проекты
 
+### [Conveyor Dimensioning Station](https://github.com/Leo0742/Conveyor-Dimensioning-Station)
+
+Инженерный проект для отбора **Ozon Tech × Университет Иннополис**. Я спроектировал 3D-станцию для измерения L/W/H товара на движущемся конвейере: сравнил варианты датчиков, выбрал **LMI Gocator 2880**, рассчитал компоновку и сделал синтетический Python-прототип от облака точек до результата для WMS. На 500 сценариях Monte Carlo **93,6% принятых измерений** попали в заданный допуск. В репозитории отдельно указано, что это результат симуляции, а физические испытания ещё нужны.
+
+`Python` · `NumPy` · `SciPy` · `Open3D` · `3D Geometry` · `Point Clouds` · `pytest` · `WMS Integration`
+
 ### [PostTech Radar](https://github.com/Leo0742/PostTech-Radar)
 
-Учебный ML/NLP-проект на **1 931 размеченном обращении Service Desk**. Я обучил и сравнил два классификационных pipeline на **Qwen3-Embedding-4B** и **Qwen3-Embedding-8B** как frozen encoder, а также TF-IDF, LinearSVC и CatBoost baselines. Сервис предсказывает TOP-3 категории, рекомендует линию поддержки и ищет похожие обращения. **4B Lite** получил **80,8% Top-1 / 97,7% Top-3 / 76,0% Macro-F1** на TOP-15 grouped CV; в репозитории лежат training code и отчёты по 4B/8B.
+Учебный ML/NLP-проект для классификации **1 931 размеченного обращения Service Desk по 43 категориям**. Я сравнил TF-IDF, LinearSVC, CatBoost и пайплайны на Qwen3-Embedding 4B/8B, использовал групповую валидацию, чтобы не допускать утечку данных, и собрал сервис с TOP-3 категориями, рекомендацией линии поддержки и поиском похожих обращений. Qwen используется как frozen encoder, а классификационная часть обучается на размеченных данных.
 
 `Python` · `Pandas` · `scikit-learn` · `CatBoost` · `PyTorch` · `Transformers` · `Qwen3 Embeddings` · `FastAPI`
 
